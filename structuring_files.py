@@ -1,3 +1,6 @@
+"""problem : the SKU codes of some product images have been incorrectly assigned. To fix this, there is need to rename the image files to a new set of SKU codes in a consistent numeric sequence."""
+
+
 import os
 
 def structured_names(directory, extension):
